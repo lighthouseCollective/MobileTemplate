@@ -9,7 +9,7 @@ Generic Template Package for an HTML5 Portrait-Orientation Mobile Website
 # USAGE
 To create a working copy of this template, use the terminal command:
 
-	git clone https://github.com/lighthouseCollective/MobileTemplage.git
+	git clone https://github.com/lighthouseCollective/MobileTemplate.git
 
 To Modify the Template, first make sure your copy of the template is up-to-date:
 
