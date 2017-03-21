@@ -21,4 +21,5 @@ Then, after making necessary modifications to the template, commit the changes:
 	git commit -m "Helpful message that explains the changes to the template"
 	git push
 
-When using the template to create a website for a client, create a fork of the repository on github and label it with a name that corresponds to the client.  After a fork has been made, you can clone the fork and use it to work on the client's page.
+When using the template to create a website for a client, create a fork of the repository on github and label it with a name that corresponds to the client.
+After a fork has been made, you can clone the fork and use it to work on the client's page.

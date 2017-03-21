@@ -1,0 +1,69 @@
+/*
+    style.css
+    Authored by Cody Fagley
+    March 21, 2017
+
+    Contains corresponding stylesheet for MobileTemplate.html
+*/
+
+
+/*
+    General Properties
+*/
+
+html, body
+{
+    height: 100%;
+    width: 100%;
+}
+
+/* Call Bar */
+.callBar
+{
+    height: 30px;
+    width: 100%;
+    top: 0px;
+    left: 0;
+    background-color: black;
+    position: fixed;
+    border-bottom: 1.5px solid white;
+}
+    /* Properties that affect the 'Call Now!' Text */
+    .callBar a
+    {
+        color: white;
+        font-size: 20px;
+        padding-top: 2.5px;
+        width: 100%;
+        text-align: center;
+        text-decoration: none;
+        position: inherit;
+    }
+
+/* Page Properties */
+.page
+{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: -1;
+}
+
+/*
+    Individual Page Properties
+*/
+
+/* Home Page */
+.homePage
+{
+    background-color: red;
+    top: 0;
+}
+
+/* Second Page */
+.secondPage
+{
+    background-color: blue;
+    top: 100%;
+}
